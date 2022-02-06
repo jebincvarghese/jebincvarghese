@@ -51,5 +51,4 @@
         - AWS CloudWatch
         - Grafana
         - Nagios
-        - Centreon
  
